@@ -1,0 +1,1833 @@
+{
+  "success": true,
+  "message": "all paints",
+  "payload": [
+    {
+      "_id": "63ea823b30b5f2d4d900caa1",
+      "name": "Abaddon Black",
+      "type": "base",
+      "colorGroup": "black",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900caa2",
+      "name": "Averland Sunset",
+      "type": "base",
+      "colorGroup": "yellow",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900caa3",
+      "name": "Balthasar Gold ",
+      "type": "base",
+      "colorGroup": "metallic",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900caa4",
+      "name": "Bugmans Glow",
+      "type": "base",
+      "colorGroup": "brown",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900caa5",
+      "name": "Caledor Sky",
+      "type": "base",
+      "colorGroup": "blue",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900caa6",
+      "name": "Caliban Green",
+      "type": "base",
+      "colorGroup": "green",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900caa7",
+      "name": "Castellan Green",
+      "type": "base",
+      "colorGroup": "green",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900caa8",
+      "name": "Celestra Grey",
+      "type": "base",
+      "colorGroup": "grey",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900caa9",
+      "name": "Ceramite White",
+      "type": "base",
+      "colorGroup": "white",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900caaa",
+      "name": "Daemonette Hide",
+      "type": "base",
+      "colorGroup": "purple",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900caab",
+      "name": "Death Guard Green",
+      "type": "base",
+      "colorGroup": "green",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900caac",
+      "name": "Deathworld Forest",
+      "type": "base",
+      "colorGroup": "green",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900caad",
+      "name": "dryad Bark",
+      "type": "base",
+      "colorGroup": "brown",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900caae",
+      "name": "Incubi Darkness",
+      "type": "base",
+      "colorGroup": "blue",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900caaf",
+      "name": "Jokaero Orange",
+      "type": "base",
+      "colorGroup": "orange",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cab0",
+      "name": "Kantor Blue",
+      "type": "base",
+      "colorGroup": "blue",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cab1",
+      "name": "Khorne Red",
+      "type": "base",
+      "colorGroup": "red",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cab2",
+      "name": "Leadbelcher ",
+      "type": "base",
+      "colorGroup": "metallic",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cab3",
+      "name": "Macragge Blue",
+      "type": "base",
+      "colorGroup": "blue",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cab4",
+      "name": "Mechanicus Standard Grey",
+      "type": "base",
+      "colorGroup": "grey",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cab5",
+      "name": "Mephiston Red",
+      "type": "base",
+      "colorGroup": "red",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cab6",
+      "name": "Mournfang Brown",
+      "type": "base",
+      "colorGroup": "brown",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cab7",
+      "name": "Naggaroth Night",
+      "type": "base",
+      "colorGroup": "purple",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cab8",
+      "name": "Rakarth Flesh",
+      "type": "base",
+      "colorGroup": "brown",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cab9",
+      "name": "Ratskin Flesh",
+      "type": "base",
+      "colorGroup": "brown",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900caba",
+      "name": "Retributor Armour ",
+      "type": "base",
+      "colorGroup": "metallic",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cabb",
+      "name": "Rhinox Hide",
+      "type": "base",
+      "colorGroup": "brown",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cabc",
+      "name": "Screamer Pink",
+      "type": "base",
+      "colorGroup": "pink",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cabd",
+      "name": "Screaming Bell ",
+      "type": "base",
+      "colorGroup": "metallic",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cabe",
+      "name": "Steel Legion Drab",
+      "type": "base",
+      "colorGroup": "brown",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cabf",
+      "name": "Stegadon Scale Green",
+      "type": "base",
+      "colorGroup": "green",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cac0",
+      "name": "The Fang Grey",
+      "type": "base",
+      "colorGroup": "grey",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cac1",
+      "name": "Thousand Sons Blue",
+      "type": "base",
+      "colorGroup": "blue",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cac2",
+      "name": "Waaagh! Flesh",
+      "type": "base",
+      "colorGroup": "green",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cac3",
+      "name": "Warplock Bronze ",
+      "type": "base",
+      "colorGroup": "metallic",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cac4",
+      "name": "XV-88",
+      "type": "base",
+      "colorGroup": "metallic",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cac5",
+      "name": "Zandri Dust",
+      "type": "base",
+      "colorGroup": "brown",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cac6",
+      "name": "Administratum Grey",
+      "type": "layer",
+      "colorGroup": "grey",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cac7",
+      "name": "Ahriman Blue",
+      "type": "layer",
+      "colorGroup": "blue",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cac8",
+      "name": "Alaitoc Blue",
+      "type": "layer",
+      "colorGroup": "blue",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cac9",
+      "name": "Altdorf Guard Blue",
+      "type": "layer",
+      "colorGroup": "blue",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900caca",
+      "name": "Auric Armour Gold ",
+      "type": "layer",
+      "colorGroup": "metallic",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cacb",
+      "name": "Balor Brown",
+      "type": "layer",
+      "colorGroup": "brown",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cacc",
+      "name": "Baneblade Brown",
+      "type": "layer",
+      "colorGroup": "brown",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cacd",
+      "name": "Bestigor Flesh",
+      "type": "layer",
+      "colorGroup": "brown",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cace",
+      "name": "Brass Scorpion ",
+      "type": "layer",
+      "colorGroup": "metallic",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cacf",
+      "name": "Cadian Fleshtone",
+      "type": "layer",
+      "colorGroup": "brown",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cad0",
+      "name": "Calgar Blue",
+      "type": "layer",
+      "colorGroup": "blue",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cad1",
+      "name": "Dark Reaper",
+      "type": "layer",
+      "colorGroup": "green",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cad2",
+      "name": "Dawnstone",
+      "type": "layer",
+      "colorGroup": "grey",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cad3",
+      "name": "Deathclaw Brown",
+      "type": "layer",
+      "colorGroup": "brown",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cad4",
+      "name": "Doombull Brown",
+      "type": "layer",
+      "colorGroup": "brown",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cad5",
+      "name": "Elysian Green",
+      "type": "layer",
+      "colorGroup": "green",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cad6",
+      "name": "Emperors Children",
+      "type": "layer",
+      "colorGroup": "pink",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cad7",
+      "name": "Eshin Grey",
+      "type": "layer",
+      "colorGroup": "grey",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cad8",
+      "name": "Evil Sunz Scarlet",
+      "type": "layer",
+      "colorGroup": "red",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cad9",
+      "name": "Fenrisian Grey",
+      "type": "layer",
+      "colorGroup": "grey",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cada",
+      "name": "Fire Dragon Bright",
+      "type": "layer",
+      "colorGroup": "orange",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cadb",
+      "name": "Flash Gitz Yellow",
+      "type": "layer",
+      "colorGroup": "yellow",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cadc",
+      "name": "Flayed One Flesh",
+      "type": "layer",
+      "colorGroup": "brown",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cadd",
+      "name": "Fulgurite Copper ",
+      "type": "layer",
+      "colorGroup": "metallic",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cade",
+      "name": "Gehenna's Gold ",
+      "type": "layer",
+      "colorGroup": "metallic",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cadf",
+      "name": "Genestealer Purple",
+      "type": "layer",
+      "colorGroup": "purple",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cae0",
+      "name": "Gorthor Brown",
+      "type": "layer",
+      "colorGroup": "brown",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cae1",
+      "name": "Hashut Copper ",
+      "type": "layer",
+      "colorGroup": "metallic",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cae2",
+      "name": "Hoeth Blue",
+      "type": "layer",
+      "colorGroup": "blue",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cae3",
+      "name": "Ironbreaker ",
+      "type": "layer",
+      "colorGroup": "metallic",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cae4",
+      "name": "Kabalite Green",
+      "type": "layer",
+      "colorGroup": "green",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cae5",
+      "name": "Karak Stone",
+      "type": "layer",
+      "colorGroup": "brown",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cae6",
+      "name": "Kislev Flesh",
+      "type": "layer",
+      "colorGroup": "brown",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cae7",
+      "name": "Liberator Gold ",
+      "type": "layer",
+      "colorGroup": "metallic",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cae8",
+      "name": "Loren Forest",
+      "type": "layer",
+      "colorGroup": "green",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cae9",
+      "name": "Lothern Blue",
+      "type": "layer",
+      "colorGroup": "blue",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900caea",
+      "name": "Moot Green",
+      "type": "layer",
+      "colorGroup": "green",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900caeb",
+      "name": "Nurgling Green",
+      "type": "layer",
+      "colorGroup": "green",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900caec",
+      "name": "Ogryn Camo",
+      "type": "layer",
+      "colorGroup": "green",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900caed",
+      "name": "Pallid Wych Flesh",
+      "type": "layer",
+      "colorGroup": "white",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900caee",
+      "name": "Pink Horror",
+      "type": "layer",
+      "colorGroup": "pink",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900caef",
+      "name": "Runefang Steel ",
+      "type": "layer",
+      "colorGroup": "metallic",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900caf0",
+      "name": "Runelord Brass ",
+      "type": "layer",
+      "colorGroup": "metallic",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900caf1",
+      "name": "Russ Grey",
+      "type": "layer",
+      "colorGroup": "grey",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900caf2",
+      "name": "Screaming Skull",
+      "type": "layer",
+      "colorGroup": "white",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900caf3",
+      "name": "Skarsnik Green",
+      "type": "layer",
+      "colorGroup": "green",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900caf4",
+      "name": "Skavenblight Dinge",
+      "type": "layer",
+      "colorGroup": "grey",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900caf5",
+      "name": "Skrag Brown",
+      "type": "layer",
+      "colorGroup": "brown",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900caf6",
+      "name": "Skullcrusher Brass ",
+      "type": "layer",
+      "colorGroup": "metallic",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900caf7",
+      "name": "Slaanesh Grey",
+      "type": "layer",
+      "colorGroup": "grey",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900caf8",
+      "name": "Sotek Green",
+      "type": "layer",
+      "colorGroup": "green",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900caf9",
+      "name": "Squig Orange",
+      "type": "layer",
+      "colorGroup": "orange",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cafa",
+      "name": "Stormhost Silver ",
+      "type": "layer",
+      "colorGroup": "metallic",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cafb",
+      "name": "Stormvermin Fur",
+      "type": "layer",
+      "colorGroup": "brown",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cafc",
+      "name": "Straken Green",
+      "type": "layer",
+      "colorGroup": "green",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cafd",
+      "name": "Sybarite Green",
+      "type": "layer",
+      "colorGroup": "green",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cafe",
+      "name": "Sycorax Bronze ",
+      "type": "layer",
+      "colorGroup": "metallic",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900caff",
+      "name": "Tallarn Sand",
+      "type": "layer",
+      "colorGroup": "brown",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb00",
+      "name": "Tau Light Ochre",
+      "type": "layer",
+      "colorGroup": "brown",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb01",
+      "name": "Teclis Blue",
+      "type": "layer",
+      "colorGroup": "blue",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb02",
+      "name": "Temple Guard Blue",
+      "type": "layer",
+      "colorGroup": "blue",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb03",
+      "name": "Thunderhawk Blue",
+      "type": "layer",
+      "colorGroup": "blue",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb04",
+      "name": "Troll Slayer Orange",
+      "type": "layer",
+      "colorGroup": "orange",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb05",
+      "name": "Tuskgor Fur",
+      "type": "layer",
+      "colorGroup": "brown",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb06",
+      "name": "Ulthuan Grey",
+      "type": "layer",
+      "colorGroup": "grey",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb07",
+      "name": "Ungor Flesh",
+      "type": "layer",
+      "colorGroup": "brown",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb08",
+      "name": "Ushabti Bone",
+      "type": "layer",
+      "colorGroup": "brown",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb09",
+      "name": "Warboss Green",
+      "type": "layer",
+      "colorGroup": "green",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb0a",
+      "name": "Warpfiend Grey",
+      "type": "layer",
+      "colorGroup": "grey",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb0b",
+      "name": "Warpstone Glow",
+      "type": "layer",
+      "colorGroup": "green",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb0c",
+      "name": "Wazdakka Red",
+      "type": "layer",
+      "colorGroup": "red",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb0d",
+      "name": "White Scar",
+      "type": "layer",
+      "colorGroup": "white",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb0e",
+      "name": "Wild Rider Red",
+      "type": "layer",
+      "colorGroup": "red",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb0f",
+      "name": "Xereus Purple",
+      "type": "layer",
+      "colorGroup": "purple",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb10",
+      "name": "Yriel Yellow",
+      "type": "layer",
+      "colorGroup": "yellow",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb11",
+      "name": "Zamesi Desert",
+      "type": "layer",
+      "colorGroup": "brown",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb12",
+      "name": "Agrax Earthshade",
+      "type": "shade",
+      "colorGroup": "brown",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb13",
+      "name": "Agrax Earthshade (Gloss)",
+      "type": "shade",
+      "colorGroup": "brown",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb14",
+      "name": "Athonian Camoshade",
+      "type": "shade",
+      "colorGroup": "green",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb15",
+      "name": "Biel-Tan Green",
+      "type": "shade",
+      "colorGroup": "green",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb16",
+      "name": "Carroburg Crimson",
+      "type": "shade",
+      "colorGroup": "red",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb17",
+      "name": "Casandora Yellow",
+      "type": "shade",
+      "colorGroup": "yellow",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb18",
+      "name": "Coelia Greenshade",
+      "type": "shade",
+      "colorGroup": "green",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb19",
+      "name": "Drakenhof Nightshade",
+      "type": "shade",
+      "colorGroup": "blue",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb1a",
+      "name": "Druchii Violet",
+      "type": "shade",
+      "colorGroup": "purple",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb1b",
+      "name": "Fuegan Orange",
+      "type": "shade",
+      "colorGroup": "orange",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb1c",
+      "name": "Nuln Oil",
+      "type": "shade",
+      "colorGroup": "black",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb1d",
+      "name": "Nuln Oil (Gloss)",
+      "type": "shade",
+      "colorGroup": "black",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb1e",
+      "name": "Reikland Fleshshade",
+      "type": "shade",
+      "colorGroup": "brown",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb1f",
+      "name": "Reikland Fleshshade (Gloss)",
+      "type": "shade",
+      "colorGroup": "brown",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb20",
+      "name": "Seraphim Sepia",
+      "type": "shade",
+      "colorGroup": "brown",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb21",
+      "name": "Astorath Red",
+      "type": "dry",
+      "colorGroup": "red",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb22",
+      "name": "Changeling Pink",
+      "type": "dry",
+      "colorGroup": "pink",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb23",
+      "name": "Chronus Blue",
+      "type": "dry",
+      "colorGroup": "blue",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb24",
+      "name": "Dawnstone",
+      "type": "dry",
+      "colorGroup": "grey",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb25",
+      "name": "Eldar Flesh",
+      "type": "dry",
+      "colorGroup": "brown",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb26",
+      "name": "Etherium Blue",
+      "type": "dry",
+      "colorGroup": "blue",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb27",
+      "name": "Golden Griffon ",
+      "type": "dry",
+      "colorGroup": "metallic",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb28",
+      "name": "Golgfag Brown",
+      "type": "dry",
+      "colorGroup": "brown",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb29",
+      "name": "Hellion Green",
+      "type": "dry",
+      "colorGroup": "green",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb2a",
+      "name": "Hexos Palesun",
+      "type": "dry",
+      "colorGroup": "yellow",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb2b",
+      "name": "Hoeth Blue",
+      "type": "dry",
+      "colorGroup": "blue",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb2c",
+      "name": "Imrik Blue",
+      "type": "dry",
+      "colorGroup": "blue",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb2d",
+      "name": "Kindleflame",
+      "type": "dry",
+      "colorGroup": "orange",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb2e",
+      "name": "Longbeard Grey",
+      "type": "dry",
+      "colorGroup": "grey",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb2f",
+      "name": "Lucius Lilac",
+      "type": "dry",
+      "colorGroup": "purple",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb30",
+      "name": "Necron Compound ",
+      "type": "dry",
+      "colorGroup": "metallic",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb31",
+      "name": "Niblet Green",
+      "type": "dry",
+      "colorGroup": "green",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb32",
+      "name": "Nurgling Green",
+      "type": "dry",
+      "colorGroup": "green",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb33",
+      "name": "Praxeti White",
+      "type": "dry",
+      "colorGroup": "white",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb34",
+      "name": "Ryza Rust",
+      "type": "dry",
+      "colorGroup": "red",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb35",
+      "name": "Sigmarite",
+      "type": "dry",
+      "colorGroup": "metallic",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb36",
+      "name": "Skink Blue",
+      "type": "dry",
+      "colorGroup": "blue",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb37",
+      "name": "Slaanesh Grey",
+      "type": "dry",
+      "colorGroup": "grey",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb38",
+      "name": "Stormfang",
+      "type": "dry",
+      "colorGroup": "grey",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb39",
+      "name": "Sylvaneth Bark",
+      "type": "dry",
+      "colorGroup": "brown",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb3a",
+      "name": "Terminatus Stone",
+      "type": "dry",
+      "colorGroup": "brown",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb3b",
+      "name": "Thunderhawk Blue",
+      "type": "dry",
+      "colorGroup": "blue",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb3c",
+      "name": "Tyrant Skull",
+      "type": "dry",
+      "colorGroup": "brown",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb3d",
+      "name": "Underhive Ash",
+      "type": "dry",
+      "colorGroup": "brown",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb3e",
+      "name": "Verminlord Hide",
+      "type": "dry",
+      "colorGroup": "blue",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb3f",
+      "name": "Wrack White",
+      "type": "dry",
+      "colorGroup": "white",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb40",
+      "name": "Baharroth Blue",
+      "type": "edge",
+      "colorGroup": "blue",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb41",
+      "name": "Blue Horror",
+      "type": "edge",
+      "colorGroup": "blue",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb42",
+      "name": "Dechala Lilac",
+      "type": "edge",
+      "colorGroup": "purple",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb43",
+      "name": "Dorn Yellow",
+      "type": "edge",
+      "colorGroup": "yellow",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb44",
+      "name": "Fulgrim Pink",
+      "type": "edge",
+      "colorGroup": "pink",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb45",
+      "name": "Gauss Blaster Green",
+      "type": "edge",
+      "colorGroup": "green",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb46",
+      "name": "Krieg Khaki",
+      "type": "edge",
+      "colorGroup": "brown",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb47",
+      "name": "Lugganath Orange",
+      "type": "edge",
+      "colorGroup": "orange",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb48",
+      "name": "Bloodletter",
+      "type": "glaze",
+      "colorGroup": "orange",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb49",
+      "name": "Guilliman Blue",
+      "type": "glaze",
+      "colorGroup": "blue",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb4a",
+      "name": "Lamenters Yellow",
+      "type": "glaze",
+      "colorGroup": "yellow",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb4b",
+      "name": "Waywatcher Green",
+      "type": "glaze",
+      "colorGroup": "green",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb4c",
+      "name": "Agrellan Badland",
+      "type": "texture",
+      "colorGroup": "brown",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb4d",
+      "name": "Agrellan Earth",
+      "type": "texture",
+      "colorGroup": "brown",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb4e",
+      "name": "Armageddon Dust",
+      "type": "texture",
+      "colorGroup": "brown",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb4f",
+      "name": "Armageddon Dunes",
+      "type": "texture",
+      "colorGroup": "brown",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb50",
+      "name": "Astrogranite",
+      "type": "texture",
+      "colorGroup": "grey",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb51",
+      "name": "Astrogranite Debris",
+      "type": "texture",
+      "colorGroup": "grey",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb52",
+      "name": "Blackfire Earth",
+      "type": "texture",
+      "colorGroup": "brown",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb53",
+      "name": "Lustrian Undergrowth",
+      "type": "texture",
+      "colorGroup": "green",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb54",
+      "name": "Martian Ironcrust",
+      "type": "texture",
+      "colorGroup": "red",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb55",
+      "name": "Martian Ironearth",
+      "type": "texture",
+      "colorGroup": "red",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb56",
+      "name": "Mourn Mountain Snow",
+      "type": "texture",
+      "colorGroup": "white",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb57",
+      "name": "Stirland Battlemire",
+      "type": "texture",
+      "colorGroup": "brown",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb58",
+      "name": "Stirland Mud",
+      "type": "texture",
+      "colorGroup": "brown",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb59",
+      "name": "Valhallan Blizzard",
+      "type": "texture",
+      "colorGroup": "white",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb5a",
+      "name": "Ardcoat",
+      "type": "technical",
+      "colorGroup": "other",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb5b",
+      "name": "Agrellan Earth",
+      "type": "technical",
+      "colorGroup": "other",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb5c",
+      "name": "Blood for the Blood God",
+      "type": "technical",
+      "colorGroup": "red",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb5d",
+      "name": "Imperial Primer",
+      "type": "technical",
+      "colorGroup": "other",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb5e",
+      "name": "Lahmian Medium",
+      "type": "technical",
+      "colorGroup": "other",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb5f",
+      "name": "Liquid Green Stuff",
+      "type": "technical",
+      "colorGroup": "other",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb60",
+      "name": "Martian Ironearth",
+      "type": "technical",
+      "colorGroup": "red",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb61",
+      "name": "Nihilakh Oxide",
+      "type": "technical",
+      "colorGroup": "green",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb62",
+      "name": "Nurgle's Rot",
+      "type": "technical",
+      "colorGroup": "brown",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb63",
+      "name": "Soulstone Blue",
+      "type": "technical",
+      "colorGroup": "blue",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb64",
+      "name": "Spiritstone Red",
+      "type": "technical",
+      "colorGroup": "red",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb65",
+      "name": "Typhus Corrosion",
+      "type": "technical",
+      "colorGroup": "brown",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb66",
+      "name": "Waystone Green",
+      "type": "technical",
+      "colorGroup": "green",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb67",
+      "name": "Apothecary White",
+      "type": "contrast",
+      "colorGroup": "white",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb68",
+      "name": "Black Templar",
+      "type": "contrast",
+      "colorGroup": "black",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb69",
+      "name": "Space Wolves Grey",
+      "type": "contrast",
+      "colorGroup": "grey",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb6a",
+      "name": "Gryph-Charger Grey",
+      "type": "contrast",
+      "colorGroup": "grey",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb6b",
+      "name": "Basilicanum Grey",
+      "type": "contrast",
+      "colorGroup": "grey",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb6c",
+      "name": "Volupus Pink",
+      "type": "contrast",
+      "colorGroup": "pink",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb6d",
+      "name": "Blood Angels Red",
+      "type": "contrast",
+      "colorGroup": "red",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb6e",
+      "name": "Flesh Tearers Red",
+      "type": "contrast",
+      "colorGroup": "red",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb6f",
+      "name": "Magos Purple",
+      "type": "contrast",
+      "colorGroup": "purple",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb70",
+      "name": "Shyish Purple",
+      "type": "contrast",
+      "colorGroup": "purple",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb71",
+      "name": "Aethermatic Blue",
+      "type": "contrast",
+      "colorGroup": "blue",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb72",
+      "name": "Leviadon Blue",
+      "type": "contrast",
+      "colorGroup": "blue",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb73",
+      "name": "Ultramarines Blue",
+      "type": "contrast",
+      "colorGroup": "blue",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb74",
+      "name": "Talassar Blue",
+      "type": "contrast",
+      "colorGroup": "blue",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb75",
+      "name": "Terradon Turquoise",
+      "type": "contrast",
+      "colorGroup": "green",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb76",
+      "name": "Akhelian Green",
+      "type": "contrast",
+      "colorGroup": "green",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb77",
+      "name": "Dark Angels Green",
+      "type": "contrast",
+      "colorGroup": "green",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb78",
+      "name": "Militarum Green",
+      "type": "contrast",
+      "colorGroup": "green",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb79",
+      "name": "Iyanden Yellow",
+      "type": "contrast",
+      "colorGroup": "yellow",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb7a",
+      "name": "Nazdreg Yellow",
+      "type": "contrast",
+      "colorGroup": "yellow",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb7b",
+      "name": "Gryph-hound Orange",
+      "type": "contrast",
+      "colorGroup": "orange",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb7c",
+      "name": "Snakebite Leather ",
+      "type": "contrast",
+      "colorGroup": "brown",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb7d",
+      "name": "Cygor Brown",
+      "type": "contrast",
+      "colorGroup": "brown",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb7e",
+      "name": "Guilliman Flesh",
+      "type": "contrast",
+      "colorGroup": "brown",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb7f",
+      "name": "Fyreslayer Flesh",
+      "type": "contrast",
+      "colorGroup": "brown",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb80",
+      "name": "Darkoath Flesh",
+      "type": "contrast",
+      "colorGroup": "brown",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb81",
+      "name": "Plaguebearer Flesh",
+      "type": "contrast",
+      "colorGroup": "green",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb82",
+      "name": "Ork Flesh",
+      "type": "contrast",
+      "colorGroup": "green",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb83",
+      "name": "Skeleton Horde",
+      "type": "contrast",
+      "colorGroup": "brown",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb84",
+      "name": "Aggaros Dunes",
+      "type": "contrast",
+      "colorGroup": "brown",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb85",
+      "name": "Creed Camo",
+      "type": "contrast",
+      "colorGroup": "green",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb86",
+      "name": "Gore-grunta Fur",
+      "type": "contrast",
+      "colorGroup": "brown",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb87",
+      "name": "Wyldwood",
+      "type": "contrast",
+      "colorGroup": "brown",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb88",
+      "name": "Warp Lightning",
+      "type": "contrast",
+      "colorGroup": "green",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb89",
+      "name": "Wraithbone",
+      "type": "base",
+      "colorGroup": "white",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb8a",
+      "name": "Grey seer",
+      "type": "base",
+      "colorGroup": "grey",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb8b",
+      "name": "Bad Moon Yellow",
+      "type": "contrast",
+      "colorGroup": "yellow",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb8c",
+      "name": "Imperial Fist",
+      "type": "contrast",
+      "colorGroup": "yellow",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb8d",
+      "name": "Ironjawz Yellow",
+      "type": "contrast",
+      "colorGroup": "yellow",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb8e",
+      "name": "Magmadroth Flame",
+      "type": "contrast",
+      "colorGroup": "orange",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb8f",
+      "name": "Baal Red",
+      "type": "contrast",
+      "colorGroup": "red",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb90",
+      "name": "Doomfire Magenta",
+      "type": "contrast",
+      "colorGroup": "red",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb91",
+      "name": "Sigvald Burgundy",
+      "type": "contrast",
+      "colorGroup": "red",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb92",
+      "name": "Luxion Purple",
+      "type": "contrast",
+      "colorGroup": "purple",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb93",
+      "name": "Leviathan Purple",
+      "type": "contrast",
+      "colorGroup": "purple",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb94",
+      "name": "Dreadful Visage",
+      "type": "contrast",
+      "colorGroup": "purple",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb95",
+      "name": "Celestium Blue",
+      "type": "contrast",
+      "colorGroup": "blue",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb96",
+      "name": "Asurmen Blue",
+      "type": "contrast",
+      "colorGroup": "blue",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb97",
+      "name": "Stormfiend",
+      "type": "contrast",
+      "colorGroup": "blue",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb98",
+      "name": "Frostheart",
+      "type": "contrast",
+      "colorGroup": "blue",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb99",
+      "name": "Pylar Glacier",
+      "type": "contrast",
+      "colorGroup": "blue",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb9a",
+      "name": "Briar Queen Chill",
+      "type": "contrast",
+      "colorGroup": "blue",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb9b",
+      "name": "Nighthaunt Gloom",
+      "type": "contrast",
+      "colorGroup": "blue",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb9c",
+      "name": "Kroxigor Scales",
+      "type": "contrast",
+      "colorGroup": "green",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb9d",
+      "name": "Aeldari Emerald",
+      "type": "contrast",
+      "colorGroup": "green",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb9e",
+      "name": "Hexwraith Flame",
+      "type": "contrast",
+      "colorGroup": "green",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cb9f",
+      "name": "Striking Scorpion Green",
+      "type": "contrast",
+      "colorGroup": "green",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cba0",
+      "name": "Karandras Green",
+      "type": "contrast",
+      "colorGroup": "green",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cba1",
+      "name": "Gutrippa Flesh",
+      "type": "contrast",
+      "colorGroup": "green",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cba2",
+      "name": "Mantis Warrior Green",
+      "type": "contrast",
+      "colorGroup": "green",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cba3",
+      "name": "Garaghak’s Sewer",
+      "type": "contrast",
+      "colorGroup": "brown",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cba4",
+      "name": "Ratling Grime",
+      "type": "contrast",
+      "colorGroup": "brown",
+      "__v": 0
+    },
+    {
+      "_id": "63ea823b30b5f2d4d900cba5",
+      "name": "Black Legion",
+      "type": "contrast",
+      "colorGroup": "black",
+      "__v": 0
+    }
+  ]
+}
