@@ -1,1 +1,3 @@
 .env
+data/Inventory.json
+/commands/__pycache__

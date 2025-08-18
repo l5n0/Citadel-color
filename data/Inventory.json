@@ -1,4 +1,10 @@
 {
-  "paints": [],
-  "projects": []
+  "paints": [
+    "Nurgling Green"
+  ],
+  "projects": [
+    "Death Guards",
+    "Death Korps of Krieg",
+    "Skaven (Eshin)"
+  ]
 }

@@ -31,8 +31,10 @@ class MyBot(commands.Bot):
 
     async def setup_hook(self):
         await self.load_extension("commands.paint_commands")
+        await self.load_extension("commands.help_command")
 
 bot = MyBot(command_prefix="!", intents=intents)
+bot.remove_command('help')  # Remove the default help command for a custom embedded one
 
 @bot.event
 async def on_ready():
