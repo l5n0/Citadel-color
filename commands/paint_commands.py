@@ -24,19 +24,23 @@ def load_local_paints():
         return []
 
 class PaintListView(View):
-    def __init__(self, paint_names, ctx):
+    def __init__(self, paint_dicts, ctx):
         super().__init__(timeout=120)
-        self.paint_names = paint_names
+        self.paint_dicts = paint_dicts
         self.ctx = ctx
         self.page = 0
         self.per_page = 10
-        self.max_page = (len(paint_names) - 1) // self.per_page
+        self.max_page = (len(paint_dicts) - 1) // self.per_page
 
     def get_page_content(self):
         start = self.page * self.per_page
         end = start + self.per_page
-        page_items = self.paint_names[start:end]
-        description = "\n".join(f"- {name}" for name in page_items)
+        page_items = self.paint_dicts[start:end]
+        description = "\n".join(
+            f"- **{p.get('name','Unknown')}** "
+            f"(Type: {p.get('type','Unknown')}, Group: {p.get('colorGroup','Unknown')})"
+            for p in page_items
+        )
         embed = discord.Embed(
             title="Citadel Paints",
             description=description,
@@ -62,7 +66,6 @@ class PaintListView(View):
         self.prev_button.disabled = self.page == 0
         embed = self.get_page_content()
         await interaction.response.edit_message(embed=embed, view=self)
-
 
 class PaintCommands(commands.Cog):
     def __init__(self, bot):
@@ -97,12 +100,19 @@ class PaintCommands(commands.Cog):
     @commands.command(name="mypaints")
     async def my_paints(self, ctx):
         data = self.bot.load_inventory()
+        local_paints = load_local_paints()
         if not data["paints"]:
             embed = discord.Embed(title="Your Paint Inventory", description="Your inventory is empty.", color=0xF1C40F)
             await ctx.send(embed=embed)
         else:
-            paint_list = "\n".join(f"- {p}" for p in data["paints"])
-            embed = discord.Embed(title="Your Paint Inventory", description=paint_list, color=0x3498DB)
+            details = []
+            for paint_name in data["paints"]:
+                found = next((p for p in local_paints if p.get("name", "").lower() == paint_name.lower()), None)
+                if found:
+                    details.append(f"- **{found['name']}** (Type: {found['type']}, Group: {found['colorGroup']})")
+                else:
+                    details.append(f"- **{paint_name}** (Info not found)")
+            embed = discord.Embed(title="Your Paint Inventory", description="\n".join(details), color=0x3498DB)
             await ctx.send(embed=embed)
 
     @commands.command(name="addproject")
@@ -193,17 +203,17 @@ class PaintCommands(commands.Cog):
                     paints = None
                 print("PAINT API RAW:", paints)
                 if paints and isinstance(paints, list):
-                    paint_names = [paint['name'] for paint in paints if isinstance(paint, dict) and 'name' in paint]
+                    paint_dicts = [paint for paint in paints if isinstance(paint, dict) and 'name' in paint]
                 else:
                     local_paints = load_local_paints()
-                    paint_names = [paint['name'] for paint in local_paints if 'name' in paint]
+                    paint_dicts = [paint for paint in local_paints if 'name' in paint]
 
-        if not paint_names:
+        if not paint_dicts:
             embed = discord.Embed(title="Error", description="Could not retrieve paint list.", color=0xE74C3C)
             await ctx.send(embed=embed)
             return
 
-        view = PaintListView(paint_names, ctx)
+        view = PaintListView(paint_dicts, ctx)
         embed = view.get_page_content()
         await ctx.send(embed=embed, view=view)
 
